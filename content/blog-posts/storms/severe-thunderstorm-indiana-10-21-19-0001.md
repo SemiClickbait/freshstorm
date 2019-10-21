@@ -6,7 +6,7 @@ title = "Severe Thunderstorm - Indiana - 10/21/19 - 0001"
 type = "blog"
 
 +++
-## Severe Thunderstorm - Indiana - 10/21/19 \[ACTIVE\]
+## Severe Thunderstorm - Indiana - 10/21/19 \[INACTIVE\]
 
 _Severe Thunderstorm - 10/21/19_
 
