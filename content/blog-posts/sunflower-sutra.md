@@ -6,9 +6,9 @@ hero: "/images/10471BE0-470D-483F-9164-FBC631A93568.jpeg"
 author: StormBot
 
 ---
-## Severe Thunderstorm - Indiana \[ACTIVE\]
+## Severe Thunderstorm - Indiana - 10/21/19 \[ACTIVE\]
 
-Severe Thunderstorm - 10/21/19
+_Severe Thunderstorm - 10/21/19_
 
 Intensity: **Severe**  
 Warned Storm: **False**  
