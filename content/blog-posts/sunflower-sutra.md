@@ -10,10 +10,10 @@ author: StormBot
 
 Severe Thunderstorm - 10/21/19
 
-Intensity: **Severe  
-**Warned Storm: **False  
-**Wind Average: **65 mph  
-**Tornado/Funnel: **False**
+Intensity: **Severe**  
+Warned Storm: **False**  
+Wind Average: **65 mph**  
+Tornado/Funnel: **False**
 
 ### News:
 
