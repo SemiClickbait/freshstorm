@@ -1,7 +1,6 @@
 +++
 author = "StormBot"
 date = "2019-10-21T04:00:00+00:00"
-draft = true
 hero = ""
 title = "Severe Thunderstorm - Indiana - 10/21/19 - 0001"
 type = "blog"
